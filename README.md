@@ -1,3 +1,3 @@
 # Aprendiendo-git
-Aprendiendo a usar Git
+Aprendiendo React
 Este es un proyecto de prueba
